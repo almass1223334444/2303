@@ -7,5 +7,8 @@ public class app {
         if (num > 3){
             System.out.println(1);
         }
+        for(int i = 0;i<num;i++){
+            System.out.println(i);
+        }
     }
 }
